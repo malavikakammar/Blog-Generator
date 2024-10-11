@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+huggingface
+huggingface_hub
+ctransformers
+transformers
+langchain-google-genai
